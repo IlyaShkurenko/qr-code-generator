@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.68cd4aaaef6e89bfe4d59c35c5e7678c.css"],"names":[],"mappings":"AACA,oCACE,cAAgB,CACjB,AACD,SACE,YAAa,AACb,YAAc,CACf","file":"app.68cd4aaaef6e89bfe4d59c35c5e7678c.css","sourcesContent":["\n#app, input[type=\"text\"], .form-control{\n  font-size: 18px;\n}\n.row img{\n  width: 230px;\n  height: 230px;\n}\n"]}
